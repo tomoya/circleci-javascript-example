@@ -1,5 +1,5 @@
 {
-  "name": "circleci-javascript-example-project",
+  "name": "circleci-javascript-example",
   "author": "tomoya <tomoya.ton@gmail.com>",
   "license": "MIT",
   "scripts": {
